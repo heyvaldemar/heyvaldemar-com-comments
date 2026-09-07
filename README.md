@@ -16,6 +16,8 @@ For a broken comment widget or a moderation request, email **v@valdemar.ai** or 
 
 ---
 
+## About the maintainer
+
 <div align="center">
 
 **Maintained by [Vladimir Mikhalev](https://github.com/heyvaldemar)** · Docker Captain · IBM Champion · AWS Community Builder
