@@ -12,7 +12,7 @@ The article content lives in the site repository. This one exists only so Giscus
 
 ## Reporting a problem
 
-For a broken comment widget or a moderation request, email **v@valdemar.ai** or open a discussion. Security reports for the site itself belong in the [security policy](https://heyvaldemar.com/security).
+For a broken comment widget or a moderation request, email **connect@valdemar.ai** or open a discussion. Security reports for the site itself belong in the [security policy](https://heyvaldemar.com/security).
 
 ---
 
